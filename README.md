@@ -11,4 +11,4 @@ I build hardware and software, and I like turning messy real-world problems into
 
 ## Interests
 
-Digital design, embedded systems, and AI tools for real operations work.
+Digital design, embedded systems, and AI tools for real problems.
